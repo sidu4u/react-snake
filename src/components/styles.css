@@ -1,0 +1,17 @@
+.contianer{
+    position: relative;
+}
+
+.snake-body{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: black;
+}
+
+.apple{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: red;
+}
